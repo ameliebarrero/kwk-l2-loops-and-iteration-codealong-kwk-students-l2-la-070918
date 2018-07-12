@@ -6,3 +6,4 @@ function printBadges(employees){
   }
   return employees;
 }
+fuction tailsNeverFails
