@@ -4,4 +4,5 @@ function printBadges(employees){
     console.log("Welcome " +employees[count]+"! You are employee #"+(count+1)+".")
 
   }
+  return employees;
 }
