@@ -6,4 +6,9 @@ function printBadges(employees){
   }
   return employees;
 }
-function tailsNeverFails
+function tailsNeverFails(){
+  var tails=0;
+  while(Math.random() >= 0.5){
+    tails++;
+  }
+}
